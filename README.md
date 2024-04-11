@@ -36,8 +36,6 @@ O aplicativo é um sistema básico de gerenciamento de usuários implementado em
 7. **Encerramento Controlado:**
    - Permite ao usuário sair do aplicativo de maneira controlada, encerrando o programa de acordo com sua escolha.
 
-O aplicativo fornece uma experiência básica de CRUD para gerenciar informações de usuários, sendo uma introdução prática aos conceitos de manipulação de arquivos em Python e operações básicas de banco de dados.
-
 ## EXECUTANDO O PROJETO:
 1. Execute o arquivo Python.
 2. Isso iniciará o aplicativo e exibirá um menu com as seguintes opções:
